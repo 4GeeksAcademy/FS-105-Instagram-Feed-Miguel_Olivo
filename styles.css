@@ -1,0 +1,36 @@
+body {
+    background-color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 { 
+    background-color: white;
+    text-align: center;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.post {
+    width: 500px;
+    height: 550px;
+    background-color: white;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.post p {
+    align-items: center;
+    text-align: left;
+    padding: 10px;
+}
+.imagen {
+    width: 500px;
+    height: 400px;
+}
+.post-tittle {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
